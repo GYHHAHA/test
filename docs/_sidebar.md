@@ -3,5 +3,5 @@
     - [a](chapter1/subChapter1/a)
   - subChapter2
     - [d](chapter1/subChapter2/d)
-  - [b](b)
+  - [b](chapter1/b)
 - [c](c)
