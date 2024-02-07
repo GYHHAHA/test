@@ -1,8 +1,7 @@
-- [a](b)
-- chapter1
-  - subChapter1
-    - [a](chapter1/subChapter1/a)
-  - subChapter2
-    - [d](chapter1/subChapter2/d)
-  - [b](chapter1/b)
-- [c](c)
+- 机器学习
+  - 什么是机器学习
+    - [这是一个章节](chapter1/subChapter1/a)
+  - 机器学习能干嘛
+    - [这是另一个章节](chapter1/subChapter2/d)
+  - [这又是一个章节](chapter1/b)
+- [这是最后一个](c)
