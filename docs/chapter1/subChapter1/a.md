@@ -17,3 +17,5 @@ $$
 &=b_{i i}+b_{j j}-2 b_{i j}
 \end{aligned}
 $$
+
+![](../../test.png)
